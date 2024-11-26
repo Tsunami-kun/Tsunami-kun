@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tsunami-kun
+- 👀 I’m enthuastic in robotics and EAI, especially robotic manipuations with dual dexterous hands. 
+- 🌱 I'm currently focusing on technologies such as video prediction, causal reasoning, and affordance learning to enable robots to develop human-like upper body skills.
+- 😄 I believe solid real-world demonstrations are the central criterion of robotic science and systems, which requires both advanced robotic "brains", humanoid limbs, and dexterous manipulators.
+- 📫 Feel free to reach me at shaoym2023@shanghaitech.edu.cn.
